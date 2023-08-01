@@ -1,4 +1,4 @@
-</br>
+
 
 <div dsplay="inline-block">
  
@@ -38,4 +38,3 @@ Me acompanhe por aqui  ❤
 <a href="https://www.instagram.com/ligiagois_" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/ligiagois" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://www.linkedin.com/in/lígia-rachel-320632196" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-##
